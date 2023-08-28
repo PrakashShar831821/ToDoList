@@ -31,6 +31,4 @@ public class Task {
 
     private boolean completed;
 
-    public Task(String newTask, String newDescription, boolean b) {
-    }
 }
